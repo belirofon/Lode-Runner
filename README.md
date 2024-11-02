@@ -21,7 +21,7 @@ Lode Runner - это увлекательная аркадная игра, в к
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-пользователь/lode-runner.git
+   git clone https://github.com/belirofon/lode-runner.git
    cd lode-runner
    ```
 
